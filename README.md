@@ -3,8 +3,8 @@
 ### About me 
 
 - 💻 I’m a student of Software Analysis and Development.
-- 🔭 I’m currently looking for a job as a Front-End Developer.
-- 📚 I’m currently learning AngularJS, React Native, Typescript.
+- 🔭 I’m currently looking for a job as a Full-stack Developer.
+- 📚 I’m currently learning JAVA, SQL, AngularJS, React Native, Typescript.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jair-silva/)](https://www.linkedin.com/in/jair-silva/) 
 
