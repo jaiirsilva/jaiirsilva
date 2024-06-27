@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, eu sou o Jair</h1>
-<h3 align="center">Apaixonado por Ciencia e analise de dados</h3>
+<h3 align="center">Apaixonado Tecnologia</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, IA e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Desenvolvimento de software com a stack de Java**
 
-- 💬 Converse comigo sobre **python, e suas principais bibliotecas para análise de dados e Ciência de Dados..Visualização de dados com Power BI. Machine Learning e Deep Learning. Séries Temporais**
+- 💬 Converse comigo sobre **QA, Automação e desenvolvimeto de software em Java**
 
 - 📫 Você pode me achar em **jaiir.silva@live.com**
 
-- 📄 Conheça minhas experiencias [https://www.linkedin.com/in/jair-silva/](https://www.linkedin.com/in/jair-silva/)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/jair-silva/](https://www.linkedin.com/in/jair-silva/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
